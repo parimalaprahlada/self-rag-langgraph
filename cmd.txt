@@ -1,0 +1,3 @@
+rm -rf ./code_data/my_repo
+rm -rf chroma_langchain.db/
+

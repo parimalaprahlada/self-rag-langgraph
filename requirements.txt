@@ -1,0 +1,15 @@
+python-dotenv
+langchain_core
+langchain_openai
+langchain_community
+langchain_text_splitters
+langgraph
+typing
+pydantic
+GitPython
+langchain-huggingface 
+sentence-transformers
+langchain-chroma 
+chromadb
+grandalf
+streamlit
